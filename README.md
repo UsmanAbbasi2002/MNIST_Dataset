@@ -58,10 +58,8 @@ print(f"Predicted Label: {prediction}")
 
 ## 📂 **Files in this Repository**
 
-- `model.pth` → Trained model weights
+- `MNIST_DATASET_MODEL.pth` → Trained model weights
 - `train.py` → Model training script
-- `inference.py` → Script for running inference on new data
-- `requirements.txt` → Dependencies needed to run the project
 - `README.md` → This documentation
 
 ## 💪 **Contributing**
