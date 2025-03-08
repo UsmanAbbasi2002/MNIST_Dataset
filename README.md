@@ -38,7 +38,7 @@ model.eval()
 
 # Example prediction
 import numpy as np
-input_tensor = torch.tensor(np.random.rand(1, 1, 28, 28), dtype=torch.float32)  # Modify as per dataset
+input_tensor = torch.tensor(np.random.rand(1, 1, 28, 28), dtype=torch.float32) 
 prediction = torch.argmax(model(input_tensor)).item()
 print(f"Predicted Label: {prediction}")
 ```
@@ -58,8 +58,9 @@ print(f"Predicted Label: {prediction}")
 
 ## 📂 **Files in this Repository**
 
-- `MNIST_DATASET_MODEL.pth` → Trained model weights
+- `MNIST_DATASET_MODEL.pth` → Trained model
 - `mnist-dataset.ipynb` → Model training script
+- `predictions (1).csv` → Prediction File
 - `README.md` → This documentation
 
 ## 💪 **Contributing**
