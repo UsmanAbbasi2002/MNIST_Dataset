@@ -59,7 +59,7 @@ print(f"Predicted Label: {prediction}")
 ## 📂 **Files in this Repository**
 
 - `MNIST_DATASET_MODEL.pth` → Trained model weights
-- `train.py` → Model training script
+- `mnist-dataset.ipynb` → Model training script
 - `README.md` → This documentation
 
 ## 💪 **Contributing**
