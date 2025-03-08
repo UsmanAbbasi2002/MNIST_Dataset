@@ -33,7 +33,7 @@ from model import MyModel  # Replace with your model class
 
 # Load the trained model
 model = MyModel()
-model.load_state_dict(torch.load("model.pth"))
+model.load_state_dict(torch.load("MNIST_DATASET_MODEL.pth"))
 model.eval()
 
 # Example prediction
