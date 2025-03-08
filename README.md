@@ -8,7 +8,7 @@ This project implements a **Convolutional Neural Network (CNN)** for handwritten
 
 - **Final Score:** `0.99157`
 - **Trained using PyTorch & GPU acceleration**
-- **Model saved as `model.pth`**
+- **Model saved as `MNIST_DATASET_MODEL.pth`**
 
 ## 🛠 **Setup & Installation**
 
